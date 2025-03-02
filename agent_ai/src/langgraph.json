@@ -1,0 +1,8 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "nicobot": "./inference/chat_model.py:PDFChatAgent.app"
+    },
+    "python_version": "3.11",
+    "env": ".env"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "1efd9950-89e9-60e4-8003-880d167dcb64",
+    "user_id": "nombre_usuario",
+    "thread_id": "fef86c0c-655b-4a62-9f0a-64855516cb64",
+    "nanme_conversation":"",
+    "checkpoint_id": "1efd9950-89e9-60e4-8003-880d167dcb64",
+    "checkpoint": "{\"v\": 1, \"ts\": \"2025-01-23T14:19:18.973832+00:00\", \"id\": \"1efd9950-89e9-60e4-8003-880d167dcb64\", \"channel_values\": {\"messages\": [\"content='que recuerdas de nuestra conversacion' additional_kwargs={} response_metadata={} id='faca2d81-3aa2-4c58-9ffc-3ed53c9257a3'\", \"content='Eres un asistente de IA. 1) Si el PDF est\\u00e1 disponible, \\u00fasalo como contexto para contestar. 2) Si NO hay PDF, responde con tu conocimiento general. 3) S\\u00e9 claro y conciso, y no inventes datos. 4) Siempre saluda con un tono respetuoso.' additional_kwargs={} response_metadata={} id='2ac30824-a1e0-477b-9a09-6ca87171805b'\", \"content='\\u00a1Hola! No tengo memoria de conversaciones previas, as\\u00ed que no puedo recordar lo que hemos hablado antes. Sin embargo, estoy aqu\\u00ed para ayudarte con cualquier consulta o tema en el que necesites apoyo. \\u00bfEn qu\\u00e9 puedo asistirte hoy? \\ud83d\\ude0a' additional_kwargs={} response_metadata={} id='54d9e2c1-82e2-4a2b-81e2-be5a3ec80827'\"], \"pdf_text\": null, \"GenerateResponse\": \"GenerateResponse\"}, \"channel_versions\": {\"__start__\": 2, \"messages\": 5, \"pdf_text\": 5, \"start:InjectSystemPrompt\": 3, \"InjectSystemPrompt\": 4, \"AddPDFContext\": 5, \"GenerateResponse\": 5}, \"versions_seen\": {\"__input__\": {}, \"__start__\": {\"__start__\": 1}, \"InjectSystemPrompt\": {\"start:InjectSystemPrompt\": 2}, \"AddPDFContext\": {\"InjectSystemPrompt\": 3}, \"GenerateResponse\": {\"AddPDFContext\": 4}}, \"pending_sends\": []}",
+    "created_at":"",
+    "updated_at":"",
+    "rate":"",
+    "user_message":"",
+    "ai_message":"",
+    "metadata": "{\"source\": \"loop\", \"writes\": {\"GenerateResponse\": {\"messages\": [\"content='que recuerdas de nuestra conversacion' additional_kwargs={} response_metadata={} id='faca2d81-3aa2-4c58-9ffc-3ed53c9257a3'\", \"content='Eres un asistente de IA. 1) Si el PDF est\\u00e1 disponible, \\u00fasalo como contexto para contestar. 2) Si NO hay PDF, responde con tu conocimiento general. 3) S\\u00e9 claro y conciso, y no inventes datos. 4) Siempre saluda con un tono respetuoso.' additional_kwargs={} response_metadata={} id='2ac30824-a1e0-477b-9a09-6ca87171805b'\", \"content='\\u00a1Hola! No tengo memoria de conversaciones previas, as\\u00ed que no puedo recordar lo que hemos hablado antes. Sin embargo, estoy aqu\\u00ed para ayudarte con cualquier consulta o tema en el que necesites apoyo. \\u00bfEn qu\\u00e9 puedo asistirte hoy? \\ud83d\\ude0a' additional_kwargs={} response_metadata={} id='54d9e2c1-82e2-4a2b-81e2-be5a3ec80827'\"], \"pdf_text\": null}}, \"thread_id\": \"fef86c0c-655b-4a62-9f0a-64855516cb64\", \"step\": 3, \"parents\": {}}",
+    "checkpoint_encoded": false,
+    "metadata_encoded": false,
+    "parent_checkpoint_id": "1efd9950-7202-6b75-8002-f3edc36a6a9c",
+    "_rid": "LEc9AJjhTSxkAAAAAAAAAA==",
+    "_self": "dbs/LEc9AA==/colls/LEc9AJjhTSw=/docs/LEc9AJjhTSxkAAAAAAAAAA==/",
+    "_etag": "\"0e004ae2-0000-0200-0000-67924fe70000\"",
+    "_attachments": "attachments/",
+    "_ts": 1737641959
+}
